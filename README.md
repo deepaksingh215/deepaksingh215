@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Singh Rathore</h1>
 
-<h3 align="center">A passionate frontend developer from Madhya Pradesh India</h3>
+<h3 align="center">A passionate Full Stack Python Web developer from Madhya Pradesh, India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg">
 
